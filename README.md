@@ -2,7 +2,9 @@
 
 #### This is meant to be a simple boilerplate for react native
 
-Honestly I made this mostly for myself. But anyone is free to use it. It comes with the following features and integrations
+I made this mostly for myself so that I can stop rewriting the same code for every project. But anyone is free to use it. It comes with the following integrations, They will need further setup to become functional(This is intentional as I dont want to opinionate a backend for you)
+
+If you don't understand the following integrations this is likely not the best boilerplate for you.
 
 * Redux
 * Redux-Thunk
