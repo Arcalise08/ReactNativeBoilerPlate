@@ -13,6 +13,11 @@ Honestly I made this mostly for myself. But anyone is free to use it. It comes w
 * Email Sign In
 
 
+## Important!
+### ```THIS IS AN EXPO-MANAGED PROJECT```
+And no, this will not likely change in the future.
+
+##
 It also includes my library of react native utilities. Most of them aren't super well documented but they're meant to be relatively simple. Within them you'll find the following additional features
 
 * **ArcAnimations** - A simple animation wrapper using Animated API (Blazing fast compared to others)
