@@ -14,7 +14,7 @@ export const _initializeApp = () => async dispatch => {
         //Useful for initializing websockets
     }
     catch (e) {
-        console.log("//Couldn't initialize firebase app// more information is likely logged below")
+        console.log("//Couldn't initialize app// more information is likely logged below")
         console.log(e)
     }
 }
