@@ -31,4 +31,4 @@ It also includes my library of react native utilities. Most of them aren't super
 * **VoiceCapture** Component for capturing voice
 * **VoicePlay** Component for playing audio/voice
 
-Feel free to use any or all of my utilities but please don't submit bug reports on them. They are not meant to be completely reusable. This entire project is a starting point for someone building a react native app. You have to inspect, understand, and build off them to take full advantage.
+Feel free to use any or all of my utilities but please don't submit bug reports on them. They are not NPM packages.. And are not meant to be completely reusable. This entire project is a starting point for someone building a react native app. You have to inspect, understand, and build off them to take full advantage.
